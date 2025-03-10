@@ -8,15 +8,15 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 📕 &nbsp; Meu primeiro contato com programação foi na minha faculdade de Redes de Programação, de lá para cá sempre busquei me tornar um programador.
-- 🚀 &nbsp; Em 2022 me formei em ADS e venho me atualizando nas tecnologias, dando prioridade em JavaScript, React e Node.
-- 💚 &nbsp; Gosto de futebol e sou torcedor do Figueirense e costumo jogar CS no meu tempo livre. Acredito que seja algo saudável para esvaziar a cabeça.
-- ✈️ &nbsp; Fiz um intercambio para Irlanda de 2022 até 2023, onde conquistei diversas experiências e amizades, atingindo meu objetivo de ficar fluente em inglês.
-- 💻 &nbsp; Atualmente, estou focado em me tornar um desenvolvedor Full Stack, aprimorando minhas habilidades em **JavaScript, React e Node.js**.  
-- 📚 &nbsp; Sempre busco novos desafios e aprendizado contínuo, participando de cursos e desenvolvendo projetos pessoais.  
-- 👨‍💻 &nbsp; Meu objetivo é construir aplicações eficientes e escaláveis, utilizando as melhores práticas de desenvolvimento.  
-- 🌍 &nbsp; Além de programação, tenho interesse por tecnologia, inovação e o impacto do código no mundo real.  
-- 🔗 &nbsp; Estou aberto a novas oportunidades e colaborações. Me chama para trocar uma ideia! 🚀  
+- 📕 &nbsp; Meu primeiro contato com programação foi durante minha graduação em Redes de Programação, onde desenvolvi um forte interesse pela área. Desde então, tenho me dedicado continuamente ao aprendizado e aprimoramento das minhas habilidades.  
+- 🚀 &nbsp; Em 2022, me formei em **Análise e Desenvolvimento de Sistemas (ADS)** e venho me especializando no ecossistema **JavaScript**, com foco em **React.js** e **Node.js** para desenvolvimento Full Stack.  
+- 💻 &nbsp; Sou apaixonado por tecnologia e estou constantemente buscando novos desafios. Meu objetivo é construir aplicações eficientes, escaláveis e de alta qualidade, aplicando boas práticas de desenvolvimento e arquitetura de software.  
+- 📚 &nbsp; Acredito no aprendizado contínuo e na troca de conhecimento. Participo ativamente de cursos, projetos pessoais e iniciativas que me permitam crescer como desenvolvedor.  
+- 🌍 &nbsp; Além da programação, tenho grande interesse por inovação, impacto tecnológico e como o código pode transformar o mundo real.  
+- ✈️ &nbsp; Tive a oportunidade de realizar um intercâmbio na **Irlanda (2022-2023)**, onde ampliei minha visão de mundo, conquistei experiências valiosas e atingi meu objetivo de me tornar fluente em inglês.  
+- 💚 &nbsp; No tempo livre, gosto de acompanhar futebol, sou torcedor do **Figueirense** e também curto jogar **Counter-Strike**, o que considero uma forma saudável de relaxar e manter o equilíbrio.  
+- 🔗 &nbsp; Estou sempre aberto a novas oportunidades, colaborações e conexões profissionais. Se quiser trocar uma ideia, sinta-se à vontade para entrar em contato! 🚀  
+
 
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
