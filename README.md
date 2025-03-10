@@ -12,6 +12,12 @@
 - 🚀 &nbsp; Em 2022 me formei em ADS e venho me atualizando nas tecnologias, dando prioridade em JavaScript, React e Node.
 - 💚 &nbsp; Gosto de futebol e sou torcedor do Figueirense e costumo jogar CS no meu tempo livre. Acredito que seja algo saudável para esvaziar a cabeça.
 - ✈️ &nbsp; Fiz um intercambio para Irlanda de 2022 até 2023, onde conquistei diversas experiências e amizades, atingindo meu objetivo de ficar fluente em inglês.
+- 💻 &nbsp; Atualmente, estou focado em me tornar um desenvolvedor Full Stack, aprimorando minhas habilidades em **JavaScript, React e Node.js**.  
+- 📚 &nbsp; Sempre busco novos desafios e aprendizado contínuo, participando de cursos e desenvolvendo projetos pessoais.  
+- 👨‍💻 &nbsp; Meu objetivo é construir aplicações eficientes e escaláveis, utilizando as melhores práticas de desenvolvimento.  
+- 🌍 &nbsp; Além de programação, tenho interesse por tecnologia, inovação e o impacto do código no mundo real.  
+- 🔗 &nbsp; Estou aberto a novas oportunidades e colaborações. Me chama para trocar uma ideia! 🚀  
+
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
