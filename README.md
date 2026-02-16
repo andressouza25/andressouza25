@@ -35,6 +35,3 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
-<h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
-
-![Andre Santos GitHub Stats](https://github-readme-stats.vercel.app/api?username=andressouza25&show_icons=true&theme=dracula)
