@@ -1,8 +1,9 @@
 <h1>👋 &nbsp;Olá, me chamo André e sou um desenvolvedor full stack!</h1>
 <p align="center">
 <a href="https://www.instagram.com/andre.santoss25/"><img src="https://img.shields.io/badge/-@andre.santoss25-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/andr%C3%A9-santos-ba2081139/?locale=pt_BR"><img src="https://img.shields.io/badge/-Andre%20Santos-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:andressouza25@gmail.com"><img src="https://img.shields.io/badge/-andressouza25@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/andressouza25/"><img src="https://img.shields.io/badge/-Andre%20Santos-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://andressouza25.github.io/portfolio/"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-000000?style=flat-square&logo=githubpages&logoColor=white"/></a>
+<a href="mailto:andressouza25@gmail.com"><img src="https://img.shields.io/badge/-andressouza25@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 </p>
 
