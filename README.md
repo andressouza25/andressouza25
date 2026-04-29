@@ -63,7 +63,7 @@
 Plataforma para gestão e busca de imóveis, com cadastro, edição, filtros e upload de imagens.
 
 **Techs:** React, Node.js, MongoDB, TypeScript, Express  
-[Front-end](https://github.com/andressouza25) • [Back-end](https://github.com/andressouza25)
+[Front-end](https://github.com/andressouza25/kairos-imobiliaria-frontend) • [Back-end](https://github.com/andressouza25/kairos-imobiliaria-bakcend)
 
 ---
 
@@ -71,7 +71,7 @@ Plataforma para gestão e busca de imóveis, com cadastro, edição, filtros e u
 Aplicação full stack para criação, organização e visualização de treinos com apoio de IA.
 
 **Techs:** Next.js, TypeScript, PostgreSQL, Tailwind CSS, Fastify  
-[Front-end](https://github.com/andressouza25) • [Back-end](https://github.com/andressouza25)
+[Front-end](https://github.com/andressouza25/bootcamp-treinos-frontend) • [Back-end](https://github.com/andressouza25/bootcamp-treinos)
 
 ---
 
@@ -81,6 +81,7 @@ Aplicação full stack para criação, organização e visualização de treinos
 App full stack para gestão financeira e controle de transações.
 
 **Techs:** React, Node.js, MongoDB
+[Front-end](https://github.com/andressouza25/dashboard-fintrack) • [Back-end](https://github.com/andressouza25/finance-app-api)
 
 ---
 
@@ -88,6 +89,7 @@ App full stack para gestão financeira e controle de transações.
 Agendamento de serviços em barbearias com autenticação e banco relacional.
 
 **Techs:** Next.js, Prisma, PostgreSQL
+[Full Stack](https://github.com/andressouza25/fullstackweek-barber)
 
 ---
 
@@ -95,6 +97,7 @@ Agendamento de serviços em barbearias com autenticação e banco relacional.
 Gerenciador de tarefas full stack para criação, conclusão e exclusão de tarefas.
 
 **Techs:** React, Node.js, MongoDB
+[Front-end](https://github.com/andressouza25/task-manager-frontend) • [Back-end](https://github.com/andressouza25/task-manager-backend)
 
 ---
 
@@ -102,6 +105,7 @@ Gerenciador de tarefas full stack para criação, conclusão e exclusão de tare
 E-commerce com carrinho, estado global e integração de pagamentos.
 
 **Techs:** React, Redux, Node.js
+[Front-end](https://github.com/andressouza25/frontend-ecommerce) • [Back-end](https://github.com/andressouza25/backend-ecommerce)
 
 ---
 
@@ -109,3 +113,4 @@ E-commerce com carrinho, estado global e integração de pagamentos.
 App de previsão do tempo para praticar consumo de API e manipulação do DOM.
 
 **Techs:** HTML, CSS, JavaScript
+[Front-end](https://github.com/andressouza25/weatherApp)
