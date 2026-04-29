@@ -6,16 +6,16 @@
 
 <p align="center">
   <a href="https://www.instagram.com/andre.santoss25/">
-    <img src="https://img.shields.io/badge/@andre.santoss25-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/@andre.santoss25-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/andressouza25/">
-    <img src="https://img.shields.io/badge/Andre%20Santos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Andre%20Santos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://portfolio.andressouza25.com.br/">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-333333?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:andressouza25@gmail.com">
-    <img src="https://img.shields.io/badge/andressouza25@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/andressouza25@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -36,12 +36,20 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js)
 ![REST API](https://img.shields.io/badge/REST%20API-333333?style=for-the-badge)
-![Express](https://img.shields.io/badge/Express.js-333333?style=for-the-badge&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-333333?style=for-the-badge&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-333333?style=for-the-badge&logo=fastify&logoColor=white)
 
 <h3>🗄️ Databases</h3>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=for-the-badge&logo=postgresql)
+
+<h3>🎨 Styling & Tools</h3>
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-333333?style=for-the-badge&logo=tailwindcss)
+![Prisma](https://img.shields.io/badge/Prisma-333333?style=for-the-badge&logo=prisma)
+![Git](https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github)
 
 ---
 
@@ -60,15 +68,17 @@
 <h2>📌 Featured Projects</h2>
 
 ### 🏠 Kairós Imobiliária
-Plataforma para gestão e busca de imóveis, com cadastro, edição, filtros e upload de imagens.
 
-**Techs:** React, Node.js, MongoDB, TypeScript, Express  
+Plataforma para gestão e busca de imóveis, com cadastro, edição, filtros, upload de imagens e painel administrativo.
+
+**Techs:** React, TypeScript, Node.js, Express, MongoDB  
 [Front-end](https://github.com/andressouza25/kairos-imobiliaria-frontend) • [Back-end](https://github.com/andressouza25/kairos-imobiliaria-bakcend)
 
 ---
 
 ### 💪 Treinos
-Aplicação full stack para criação, organização e visualização de treinos com apoio de IA.
+
+Aplicação full stack para criação, organização e visualização de treinos, desenvolvida durante o bootcamp FIT.AI.
 
 **Techs:** Next.js, TypeScript, PostgreSQL, Tailwind CSS, Fastify  
 [Front-end](https://github.com/andressouza25/bootcamp-treinos-frontend) • [Back-end](https://github.com/andressouza25/bootcamp-treinos)
@@ -78,39 +88,44 @@ Aplicação full stack para criação, organização e visualização de treinos
 <h2>🚀 Other Projects</h2>
 
 ### 💰 FinTrack
+
 App full stack para gestão financeira e controle de transações.
 
-**Techs:** React, Node.js, MongoDB
+**Techs:** React, Node.js, MongoDB  
 [Front-end](https://github.com/andressouza25/dashboard-fintrack) • [Back-end](https://github.com/andressouza25/finance-app-api)
 
 ---
 
 ### ✂️ BarberShop
-Agendamento de serviços em barbearias com autenticação e banco relacional.
 
-**Techs:** Next.js, Prisma, PostgreSQL
+Aplicação full stack para agendamento de serviços em barbearias, com autenticação e banco relacional.
+
+**Techs:** Next.js, Prisma, PostgreSQL  
 [Full Stack](https://github.com/andressouza25/fullstackweek-barber)
 
 ---
 
 ### ✅ Task Manager
+
 Gerenciador de tarefas full stack para criação, conclusão e exclusão de tarefas.
 
-**Techs:** React, Node.js, MongoDB
+**Techs:** React, Node.js, MongoDB  
 [Front-end](https://github.com/andressouza25/task-manager-frontend) • [Back-end](https://github.com/andressouza25/task-manager-backend)
 
 ---
 
 ### 🛒 Club Clothing E-Commerce
+
 E-commerce com carrinho, estado global e integração de pagamentos.
 
-**Techs:** React, Redux, Node.js
+**Techs:** React, Redux, Node.js  
 [Front-end](https://github.com/andressouza25/frontend-ecommerce) • [Back-end](https://github.com/andressouza25/backend-ecommerce)
 
 ---
 
 ### 🌦️ Clima Hoje
+
 App de previsão do tempo para praticar consumo de API e manipulação do DOM.
 
-**Techs:** HTML, CSS, JavaScript
+**Techs:** HTML, CSS, JavaScript  
 [Front-end](https://github.com/andressouza25/weatherApp)
